@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); */
+@import url(https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 
 /*
 	Prologue by HTML5 UP
@@ -1552,7 +1553,7 @@
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'NanumSquare', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -1571,7 +1572,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'NanumSquare', sans-serif;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
